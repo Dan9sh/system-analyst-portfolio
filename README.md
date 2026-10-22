@@ -10,5 +10,5 @@
 - [DDL операции](04-database/ddl/create_tables.sql)
 - [DML операции](04-database/dml/select_examples.sql)
 ## Интеграции
-- [Пример спецификации на интеграцию](05-integration/integration-spec REST+Kafka+gRPC.md)
+- [Пример спецификации на интеграцию](05-integrations/integration-spec_REST+Kafka+gRPC.md)
 - 
